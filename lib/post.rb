@@ -1,5 +1,5 @@
 class Post
-  attr_accessor :post, :title
+  attr_accessor :post, :title, :author
   def initialize
     @post = post
     @title = "Hello World"
@@ -7,4 +7,4 @@ class Post
   end
   
   
-end
+ends

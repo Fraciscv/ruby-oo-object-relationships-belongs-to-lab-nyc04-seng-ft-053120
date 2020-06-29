@@ -4,5 +4,8 @@ class Post
     @post = post
   end
   
+  def title
+    puts "Hello World"
+  end
   
 end
